@@ -628,7 +628,7 @@ body {
     border-radius: 5px;
     transition: 0.1s ease;
     background-color: lightgray;
-    font-color: black;
+    color: black;
 }
 .EKP_info_div_btn:hover {
     box-shadow: 0 0 5px 0 black;

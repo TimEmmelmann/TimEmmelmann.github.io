@@ -630,8 +630,5 @@ body {
     background-color: lightgray;
     color: black;
 }
-.EKP_info_div_btn:hover {
-    box-shadow: 0 0 5px 0 black;
-}
 /* overflow_scroll end */
 /* responsive EKP end */

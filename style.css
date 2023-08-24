@@ -3,6 +3,7 @@ body {
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 250px;
+    width: 100vw;
 }
 /* responsive EKP start */
 .EKP_img_container_overflow_container {

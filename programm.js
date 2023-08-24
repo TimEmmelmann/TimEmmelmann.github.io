@@ -85,7 +85,7 @@ async function setupImageClicks() {
   let isAnimating = false;
 
   async function animateImage(image) {
-    image.style.transform = "scale(1.5)";
+    image.style.transform = "scale(2)";
     image.style.zIndex = "21";
     image.style.boxShadow = "0 0 10px 10px lightgray";
     image.style.backgroundColor = "lightgray";

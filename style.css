@@ -560,7 +560,7 @@ body {
 /* overflow_scroll start */
 .overflow_scroll_bar {
     max-width: 300px;
-    min-width: 250px;
+    min-width: 250px, 5cm;
     box-sizing: border-box;
     overflow: hidden scroll;
     scrollbar-width: 20px;

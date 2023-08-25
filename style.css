@@ -1081,7 +1081,7 @@ body {
     .overflow_scroll_bar {
         max-width: 500px;
         width: 90vw;
-         min-height: 500px;
+        min-height: 500px;
         height: auto;
         max-height: 1000px;
         margin: 3px auto auto auto;
@@ -1113,7 +1113,6 @@ body {
 @media only screen and (max-width: 1000px){
     .EKP_info_div {
         padding: 20px 15px 20px 15px;
-        font-size: 4em;
     }
 }
 
@@ -1138,6 +1137,18 @@ body {
     font-size: 20px;
     text-align: center;
     margin: 0;
+}
+@Media only screen and (max-width: 1000px){
+    .EKP_info_div_p1 {
+        font-size: 50px;
+    }
+    .EKP_info_div_p1g {
+        font-size: 50px;
+    }
+    
+    .EKP_info_div_p2 {
+        font-size: 40px;
+    }
 }
 
 #EKP_info_div_33  {
@@ -1187,6 +1198,16 @@ body {
     background-color:lightgray;
     color: black;
 }
+
+@media only screen and (max-width: 1000px) {
+    .EKP_info_div_btn {
+        height: 75px;
+        font-size: 200%;
+        border-radius: 25px;
+    }
+}
+/* overflow_scroll end */
+/* responsive EKP end */
 
 /* overflow_scroll end */
 /* responsive EKP end */

@@ -43,19 +43,12 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: visible;
+    overflow: hidden;
 }
 @media only screen and (max-width: 999px){
     .EKP_img_container {
-        max-height: 738px;
         height: 63.86vw;
-        max-width: 1040px;
         width: 90vw;
-        background-image: url(image_EKP.jpg);
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        overflow: visible;
     }
 }
 

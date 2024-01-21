@@ -1066,7 +1066,6 @@ body {
     min-width: 250px;
     box-sizing: border-box;
     overflow: hidden scroll;
-    -webkit-overflow-scrolling: touch;
     scrollbar-width: 20px;
     height: auto;
 }

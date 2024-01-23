@@ -2,6 +2,7 @@ body {
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px 10px 10px 10px;
+    overflow: hidden;
 }
 /* responsive EKP start */
 .EKP_img_container_overflow_container {
@@ -1066,6 +1067,7 @@ body {
     min-width: 250px;
     box-sizing: border-box;
     overflow: hidden scroll;
+    overscroll-behavior: contain;
     scrollbar-width: 20px;
     height: auto;
     -webkit-overflow-scrolling: touch;
